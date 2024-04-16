@@ -1,12 +1,12 @@
 <h1 align="center">Hi 👋, I'm Claude Li</h1>  
 <h3 align="center">Software Engineer with DJ dream</h3>  
+
+- ⚡ **Floral Shirt Collector.**  
   
 - 📫 Reach me **cenhao.li@outlook.com**  
   
 - 📄 My Resume [https://cenhao-claude-li-resume.tiiny.site/](https://cenhao-claude-li-resume.tiiny.site/)  
-  
-- ⚡ **If you love R&B and HipHop, we are friends now.**  
-  
+    
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
 <a href="https://linkedin.com/in/https://www.linkedin.com/in/claude-li/" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com/in/claude-li/" height="30" width="40" /></a>  
