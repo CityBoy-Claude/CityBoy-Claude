@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Claude Li</h1>  
-<h3 align="center">Software Engineer with DJ dream</h3>  
+<h3 align="center">Software Engineer</h3>  
 
 - ⚡ **Floral Shirt Collector.**  
   
