@@ -4,8 +4,6 @@
 - ⚡ **Floral Shirt Collector.**  
   
 - 📫 Reach me **cenhao.li@outlook.com**  
-  
-- 📄 My Resume [https://cenhao-claude-li-resume.tiiny.site/](https://cenhao-claude-li-resume.tiiny.site/)  
     
 <h3 align="left">Connect with me:</h3>  
 <p align="left">  
