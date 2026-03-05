@@ -1,4 +1,4 @@
-<h1 align="center">Hi 👋, I'm Claude Li</h1>  
+<h1 align="center">Hi 👋, I'm Cenhao (Claude) Li</h1>  
 <h3 align="center">Software Engineer</h3>  
 
 - **Floral Shirt Collector.**
